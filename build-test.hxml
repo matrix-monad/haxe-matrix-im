@@ -1,0 +1,11 @@
+-cp src/
+-cp test/
+
+-main beartek.matrix_im.client.Test_unit
+
+-lib akifox-asynchttp
+-lib mohxa
+
+-debug
+
+-neko bin/test.n
